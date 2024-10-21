@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DurableFunction.Demo/CopilotIndices/0.2.1657.32929
+/.vs/DurableFunction.Demo/v17
+/.vs/DurableFunction.Demo.Func
+/.vs
+/DurableFunction.Demo.Tests/bin
+/DurableFunction.Demo.Tests/obj

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DurableFunction.Demo.Func": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7218",
+      "launchBrowser": false
+    }
+  }
+}
